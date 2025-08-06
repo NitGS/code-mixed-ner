@@ -1,6 +1,6 @@
 # Bugs and Fixes – Custom NER with spaCy
 
-During the internship, I trained a custom spaCy NER model on a hand-annotated dataset of code-mixed English–Indian (Telugu, Tamil) sentences. This section documents a key bug I encountered and how I resolved it.
+During this work, I trained a custom spaCy NER model on a hand-annotated dataset of code-mixed English–Indian (Telugu, Tamil) sentences. This section documents a key bug I encountered and how I resolved it.
 
 ---
 
